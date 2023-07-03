@@ -1,7 +1,15 @@
 # spring-boot-2.5.4-java8-securityJWT-jpa-custom401And403
 spring-boot-2.5.4-java8-securityJWT-jpa-custom401And403
-credenciales:
 
+Características:
+- Spring boot 2.5.4
+- Java 1.8
+- Spring security
+- Authentication
+- Authorization
+- Custom response data for 401 and 403
+
+Credenciales:
 ```java
 @Override
   public void run(String... params) throws Exception {
